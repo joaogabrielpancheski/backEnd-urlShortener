@@ -2,8 +2,8 @@ import { errors } from "celebrate";
 import express from "express";
 import swaggerUi from "swagger-ui-express";
 
-import routes from "./src/routes";
-import { swaggerDocument } from "./src/swagger";
+import routes from "./routes";
+import { swaggerDocument } from "./swagger";
 
 const app = express();
 
