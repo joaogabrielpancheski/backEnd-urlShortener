@@ -10,7 +10,7 @@ Esse projeto faz parte do curso de pós-graduação em Desenvolvimento Mobile da
 ✔️ Encurtar uma URL, salvando no banco de dados\
 ✔️ Recuperar uma URL encurtada conforme ID\
 ✔️ Recuperar uma URL encurtada conforme o encurtamento da URL\
-✔️ Recuperar uma URL encurtada em uma data específica
+✔️ Recuperar todas as URLs encurtadas em uma data específica
 
 ## Tecnologias ##
 
